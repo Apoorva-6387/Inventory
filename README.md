@@ -186,4 +186,6 @@ Body:
 
 ---
 
+### 🤖 AI Usage Disclosure
 
+Some portions of this assignment (e.g., error handling patterns, and test script automation logic) were implemented with the help of AI tools like ChatGPT to ensure clean and structured code. All final decisions, code understanding, testing, and documentation were reviewed and manually validated by me.
